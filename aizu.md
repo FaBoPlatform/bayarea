@@ -9,16 +9,17 @@ SF市内からは、車で2時間程度。現在は、文化財として保存�
 
 Wakamatsu Colony Farmの家紋、会津藩の家紋となっている
 
-![](/img/ok001.png)
+![](/img/ok004.png)
 
 当時のWakamatsu Colony Farmの建物
 
-![](/img/ok002.png)
+![](/img/ok001.png)
 
 現在のWakamatsu Colony Farmに掲載されている看板
 
-![](/img/ok003.png)
+![](/img/ok002.png)
 
+![](/img/ok003.png)
 
 現在は、Wakamatsu Community Farmとして、当時の歴史を伝えるための施設となっている。Wakamatsu Community Farmでのイベント等はFacebookページで確認できる。
 
