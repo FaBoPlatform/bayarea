@@ -1,4 +1,4 @@
-# SF/BayAreaのAccelerator
+# SF/シリコンバレーのAccelerator
 
 |Accelerator名|投資額|Equity|リンク|
 |:--|:--|:--|:--|
@@ -6,7 +6,7 @@
 |500 startups|$125K|5%|[Web](http://500.co/accelerator/)|
 |Plag and Play|$30K|6%|[Web](http://plugandplaytechcenter.com/startups/)|
 
-# SF/BayAreaのMakers向けのAccelerator
+# SF/シリコンバレーのMakers向けのAccelerator
 
 HAXの卒業生の中にはすでに社員が200名を突破したスタートアップもでてきている。ハードウェアアクセラレーターでは、HAXが他を圧倒。
 
