@@ -17,7 +17,7 @@ Hacker DoJoは、安くて広い。HanaHausは、SAPがデザイン思考で設�
 
 # BayAreaのMakers向けのCoworking Space
 
-Makers向けになると、Tech　Shopが使える。事前講習を受けないと機械はいじらせてもらえないので、すぐいって直ぐレーザー等をつかえるわけではないので要注意。NoisebridgeはSFベースのHackerspace。
+Makers向けになると、TechShopがSan Francisco, Midpeninsula, San Joseにあるのでアクセスしやすい。事前講習を受けないと機械はいじらせてもらえないので、TechShopに行っても、直ぐレーザー等をつかえるわけではないので要注意。NoisebridgeはSFベースのHackerspace。
 
 |施設名|利用料(OpenSpace)|住所|リンク|
 |:--|:--|:--|
