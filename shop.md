@@ -12,6 +12,7 @@
 |:--|:--|:--|
 |TAP Plastics| Mountain View [Maps](https://www.google.co.jp/maps/place/TAP+Plastics/@37.3923778,-122.0822769,17z/data=!3m1!4b1!4m5!3m4!1s0x808fb73388e59fdb:0x33ee7e930c097d5a!8m2!3d37.3923736!4d-122.0800829) |[Web](https://www.tapplastics.com/about/locations/detail/mountain_view_ca)|
 
+![](/img/tap.png)
 
 # 電子パーツ
 
