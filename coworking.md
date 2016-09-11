@@ -18,7 +18,7 @@
 
 |施設名|利用料(OpenSpace)|住所|リンク|
 |:--|:--|:--|
-|TechShop|$200/month|San Francisco, Midpeninsula, San Jose||[Web](http://www.techshop.ws/)|
+|TechShop|$200/month|San Francisco, Midpeninsula, San Jose|[Web](http://www.techshop.ws/)|
 |Noisebridge|$40/month|San Francisco [Maps](https://www.google.com/maps/place/Noisebridge/@37.762416,-122.42148,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7e23baa2b1df:0x81b913a252fb8d04!8m2!3d37.762416!4d-122.419286)|[Web](https://www.noisebridge.net/)|
 
 # そのほか
