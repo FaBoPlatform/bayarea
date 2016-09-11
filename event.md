@@ -12,6 +12,7 @@
 |Burning Man|8月28日-9月5日|Nevada|[Web](http://burningman.org/)|
 |TechCrunch DISRUPT|9月12日-9月14日|San Francisco|[Web](https://techcrunch.com/event-info/disrupt-sf-2016/)|
 |JavaOne|9月18日-9月22日|San Francisco|[Web](https://www.oracle.com/javaone/index.html)|
+|SAP for Utilities|10月9-10月12日|San Francisco|[Web](http://sapforutilitiesconf.com/)|
 |IoT TECHEXPO|10月20日-10月21日|Santa Clara|[Web](http://www.iottechexpo.com/northamerica/)|
 |Minds + Machines|11月15日-11月16日|San Francisco|[Web](https://www.ge.com/digital/events/minds-and-machines-2016)|
 
