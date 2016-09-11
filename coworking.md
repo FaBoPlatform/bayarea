@@ -1,4 +1,4 @@
-# SF/BayAreaのCoworking Space
+# SF/シリコンバレーのCoworking Space
 
 Hacker DoJoは、安くて広い。HanaHausは、SAPがデザイン思考で設計したカフェ兼Coworking space。BlueBottle Coffeが飲める。WeWorkは、1430億円近く資金調達に成功し、世界中にCoworking spaceを開設。PARISOMAは、かっこいい。
 
