@@ -4,3 +4,4 @@
 * [Accelerator](acelerator.md)
 * [Incubator](incubator.md)
 * [Shop](shop.md)
+* [Museum](museum.md)

@@ -14,3 +14,8 @@
 
 # 電子パーツ
 
+|Shop名|住所|リンク|
+|:--|:--|:--|
+|Anchor Electronics| Santa clala [Maps](https://www.google.co.jp/maps/place/Anchor+Electronics/@37.3693578,-121.9630359,17z/data=!3m1!4b1!4m5!3m4!1s0x808fca25ba26dfd5:0xc0ca43e28395709a!8m2!3d37.3693536!4d-121.9608419) |[Web](http://anchor-electronics.com/)|
+
+
