@@ -9,3 +9,4 @@
 * [Event](event.md)
 * [Hacker House](hackerhouse.md)
 * [Analysys](analysys.md)
+* [その他でウォッチした方がいいサイト](etc.md)

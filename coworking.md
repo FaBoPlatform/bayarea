@@ -28,6 +28,7 @@ Makers向けになると、TechShopがSan Francisco, Midpeninsula, San Joseに�
 |:--|:--|:--|
 |TechShop|$200/month|San Francisco, Midpeninsula, San Jose|[Web](http://www.techshop.ws/)|
 |Noisebridge|$40/month|San Francisco [Maps](https://www.google.com/maps/place/Noisebridge/@37.762416,-122.42148,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7e23baa2b1df:0x81b913a252fb8d04!8m2!3d37.762416!4d-122.419286)|[Web](https://www.noisebridge.net/)|
+|sudo room|$60/month|Oakland [Maps](https://www.google.co.jp/maps/place/Sudo+Room/@37.8350082,-122.3341682,12z/data=!4m5!3m4!1s0x808f80ad0fc0ac35:0xa8447e6f8e915cb3!8m2!3d37.835004!4d-122.264125)|[Web](https://sudoroom.org/membership/)|
 
 Techshop San Jose<br>
 ![](/img/techshop_sanjose.jpg)
