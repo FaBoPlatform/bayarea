@@ -15,7 +15,7 @@ Hacker DoJoは、安くて広い。HanaHausは、SAPがデザイン思考で設�
 |Next Space|$25/day|San Francisco, San Jose|[Web](http://nextspace.us/)|
 |CITIZEN SPACE|$200/month|San Francisco[Maps](https://www.google.co.jp/maps/place/Citizen+Space/@37.7840461,-122.3944346,17z/data=!4m5!3m4!1s0x808580795bb89673:0xe567bf156a4f6aa9!8m2!3d37.7842979!4d-122.3944279)|[Web](http://citizenspace.us/)|
 
-# BayAreaのMakers向けのCoworking Space
+# Makers向けのCoworking Space
 
 Makers向けになると、TechShopがSan Francisco, Midpeninsula, San Joseにあるのでアクセスしやすい。事前講習を受けないと機械はいじらせてもらえないので、TechShopに行っても、直ぐレーザー等をつかえるわけではないので要注意。NoisebridgeはSFベースのHackerspace。
 
