@@ -7,3 +7,4 @@
 * [Museum](museum.md)
 * [Event](event.md)
 * [HackerHouse](hackerhouse.md)
+* [Analysys](analysys.md)
