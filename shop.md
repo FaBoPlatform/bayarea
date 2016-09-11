@@ -2,8 +2,9 @@
 
 |Shop名|住所|リンク|
 |:--|:--|:--|
-|Tb8ta| Palo Alto [Maps](https://www.google.com/maps/place/b8ta/@37.4454992,-122.1609719,18.44z/data=!4m5!3m4!1s0x808fbb39be276ab1:0x926cc505c5dc57cc!8m2!3d37.445603!4d-122.1613691?shorturl=1) |[Web](https://b8ta.com/)|
+|@b8ta| Palo Alto [Maps](https://www.google.com/maps/place/b8ta/@37.4454992,-122.1609719,18.44z/data=!4m5!3m4!1s0x808fbb39be276ab1:0x926cc505c5dc57cc!8m2!3d37.445603!4d-122.1613691?shorturl=1) |[Web](https://b8ta.com/)|
 
+![](/img/beta.png)
 
 # アクリル
 
