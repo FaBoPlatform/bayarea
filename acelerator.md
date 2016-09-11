@@ -8,6 +8,8 @@
 
 # SF/BayAreaのMakers向けのAccelerator
 
+HAXの卒業生の中にはすでに社員が200名を突破したスタートアップもでてきている。ハードウェアアクセラレーターでは、HAXが他を圧倒。
+
 |Accelerator名|投資額|Equity|リンク|
 |:--|:--|:--|:--|
 |HAX|$100K|9%|[Web](https://hax.co/)|
