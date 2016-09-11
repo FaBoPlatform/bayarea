@@ -6,3 +6,4 @@
 * [Shop](shop.md)
 * [Museum](museum.md)
 * [Event](event.md)
+* [HackerHouse](hackerhouse.md)
