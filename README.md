@@ -2,7 +2,7 @@
 
 # 本ドキュメントについて
 
-BayArea Co-working, アクセサレーター情報
+BayArea Coworking space,インキュベーター アクセサレーター情報
 
 
 Powered by [FaBo](http://www.fabo.io)
