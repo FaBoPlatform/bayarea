@@ -11,19 +11,19 @@ Wakamatsu Colony Farmの家紋、会津藩の家紋となっている
 
 ![](/img/ok001.png)
 
-当時のWakamatsu Colony Farmの建物
+Wakamatsu Colony Farmの建物
 
 ![](/img/ok004.png)
 
-現在のWakamatsu Colony Farmに掲載されている看板
+Wakamatsu Colony Farmに掲載されている看板
 
 ![](/img/ok002.png)
 
 ![](/img/ok003.png)
 
-現在は、Wakamatsu Community Farmとして、当時の歴史を伝えるための施設となっている。Wakamatsu Community Farmでのイベント等はFacebookページで確認できる。
+現在は、Wakamatsu Community Farmという名称で、当時の歴史を伝えるための施設となっている。Wakamatsu Community Farmでのイベント等はFacebookページで確認できる。
 
-[Wakamatsu Community Farm](https://www.facebook.com/WakamatsuFarm/?fref=ts)
+[Facebook Page Wakamatsu Community Farm](https://www.facebook.com/WakamatsuFarm/?fref=ts)
 
 # リンク
 
