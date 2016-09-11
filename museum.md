@@ -6,6 +6,9 @@
 |Intel Museum|Santa Clara[Maps](https://www.google.co.jp/maps/place/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0/@37.3875279,-121.9680422,16z/data=!4m5!3m4!1s0x808fc9916cf9438b:0x7644a7b904b43797!8m2!3d37.3875237!4d-121.9636595) |[Web](http://www.intel.com/content/www/us/en/company-overview/intel-museum.html)|
 |The Tech Museum of Innovation|San Jose[Maps](https://www.google.co.jp/maps/place/The+Tech+Museum+of+Innovation/@37.3316332,-121.8923204,17z/data=!3m2!4b1!5s0x808fccbacdf51473:0xf81a68d561214798!4m5!3m4!1s0x808fccbad5c8c147:0xa91fc533e16cb7da!8m2!3d37.331629!4d-121.8901264)|[Web](http://www.thetech.org/)|
 
+Computer History Museum
+![](/img/computerhistory.jpg)
+
 # Makers関連
 
 |施設名|住所|リンク|
