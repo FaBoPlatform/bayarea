@@ -14,10 +14,6 @@
 ![](/img/angel2015.png)
 [Silicon Valley Index 2016](https://www.jointventure.org/images/stories/pdf/index2016.pdf) より
 
-## San FranciscoとSilicon Valleyへの投資額
-
-
-
 # リンク
 
 * [Silicon Valley Index 2016](https://www.jointventure.org/images/stories/pdf/index2016.pdf)
