@@ -1,6 +1,7 @@
 
 * [はじめに](README.md)
 * [会津藩とカリフォルニア](aizu.md)
+* [University](univ.md)
 * [Coworking space](coworking.md)
 * [Accelerator](acelerator.md)
 * [Incubator](incubator.md)
