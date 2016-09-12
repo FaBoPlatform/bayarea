@@ -2,4 +2,4 @@
 
 * [D.School](http://dschool.stanford.edu/)
 * [DRAPER UNIVERSITY](http://www.draperuniversity.com/)
-* [42 University(未開校)](https://www.42.us.org/)
+* [42 University](https://www.42.us.org/)
