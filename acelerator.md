@@ -16,6 +16,7 @@ HAXの卒業生の中にはすでに社員が200名を突破したスタート�
 |Highway1|$100K<br>$50K|8%<br>5%|[Web](http://highway1.io/program/)|
 |Lemnos Labs|$250K|10%|[Web](http://www.apoip.org/knowledge-base/hardware-accelerators/)|
 |Y Combinator|$120K|7%|[Web](https://www.ycombinator.com/hardware/)|
+|Playground|||[Web](http://playground.global/)|
 
 HAX@Shenzhen
 ![](/img/hax.jpg)
